@@ -1,2 +1,3 @@
-hi this is the property model.
+hi this is the property model.all property models are showcased here.
 some more property models are added.
+
