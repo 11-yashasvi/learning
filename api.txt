@@ -1,1 +1,8 @@
 firebase se api request karenge idhar
+
+
+static void getData(){
+
+	print("getting data"); 
+
+}
