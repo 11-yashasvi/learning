@@ -1,1 +1,2 @@
-hi this is the property model
+hi this is the property model.
+some more property models are added.
